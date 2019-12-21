@@ -1,4 +1,4 @@
-![星域奇航LOGO](../StarRealmsTranslation/figs/star-realms-logo.png "Star Realms")
+![星域奇航LOGO](figs/star-realms-logo.png "Star Realms")
 中文规则书
 - [术语翻译参考](#%e6%9c%af%e8%af%ad%e7%bf%bb%e8%af%91%e5%8f%82%e8%80%83)
 - [总览](#%e6%80%bb%e8%a7%88)
@@ -30,15 +30,15 @@
 
 # 总览  
 在《星域奇航》之中，作为玩家的你从一叠代表你的初始舰队的起始**个人牌库**（Personal Deck）开始进行游戏，每个回合中通过打出手牌获得**金钱**（Trade），**战力**（Combat），**势力**（Authority）以及其他的效果。  
-购买力![星域奇航LOGO](../StarRealmsTranslation/figs/Trade.png "Trade")用于从**交易列**（Tarde Row）中将更强大的**舰船**（Ship）和**基地**（Base）买入你的弃牌堆（Discard Pile）。  
-战力![星域奇航LOGO](../StarRealmsTranslation/figs/Combat.png "Combat")用于攻击敌人或其基地。  
-每个玩家起始有50点势力![星域奇航LOGO](../StarRealmsTranslation/figs/Authority.png "Authority")。  
+购买力![星域奇航LOGO](figs/Trade.png "Trade")用于从**交易列**（Tarde Row）中将更强大的**舰船**（Ship）和**基地**（Base）买入你的弃牌堆（Discard Pile）。  
+战力![星域奇航LOGO](figs/Combat.png "Combat")用于攻击敌人或其基地。  
+每个玩家起始有50点势力![星域奇航LOGO](figs/Authority.png "Authority")。  
 每回合结束时摸5张新的手牌。每当牌库被摸完时，洗混含有新购买的牌的**弃牌堆**（Discard Pile）并将其构成你新的**个人牌库**。  
 第一个将对手的**势力**减至0的玩家胜出。
 # 初始设置
 将**大号卡片**放在一边。它们只会在单人（solo）或者合作挑战任务（cooperative challenge）中被用到（第~~XX~~页）。  
 每个玩家以含有8**侦察者**（Scout）和2**蝰蛇**（Viper）的牌库，以及50点势力作为起始。  
-将16张**探索者**（Explorer）组成的牌叠面朝上放在桌面上，牌面向下洗混**交易牌库**（Trade Deck）（所有带有![星域奇航LOGO](../StarRealmsTranslation/figs/Blob.png "Blob")![星域奇航LOGO](../StarRealmsTranslation/figs/StarEmpire.png "Star Empire")![星域奇航LOGO](../StarRealmsTranslation/figs/TradeFederation.png "Trade Federation")![星域奇航LOGO](../StarRealmsTranslation/figs/MachineClut.png "Machine Clut")派系（faction）标志的标准大小的卡牌）。在交易牌库旁为**销毁堆**（Scrap Heap）（用于存放所有被移出游戏的卡）。将交易牌库最上方的五张牌面朝上置于桌面构成**交易列**（Trade Row）。  
+将16张**探索者**（Explorer）组成的牌叠面朝上放在桌面上，牌面向下洗混**交易牌库**（Trade Deck）（所有带有![星域奇航LOGO](figs/Blob.png "Blob")![星域奇航LOGO](figs/StarEmpire.png "Star Empire")![星域奇航LOGO](figs/TradeFederation.png "Trade Federation")![星域奇航LOGO](figs/MachineClut.png "Machine Clut")派系（faction）标志的标准大小的卡牌）。在交易牌库旁为**销毁堆**（Scrap Heap）（用于存放所有被移出游戏的卡）。将交易牌库最上方的五张牌面朝上置于桌面构成**交易列**（Trade Row）。  
 每个玩家洗混**个人牌库**并且将其面朝下放在自己面前，留下**弃牌堆**的空间。  
 随机选择起始玩家。双人游戏之中该玩家将从**个人牌库**中抓三张牌，第二位玩家将抓五张牌。  
 # 计分
