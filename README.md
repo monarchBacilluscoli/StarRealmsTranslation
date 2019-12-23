@@ -1,5 +1,6 @@
 ![星域奇航LOGO](figs/star-realms-logo.png "Star Realms")
-中文规则书
+中文规则书  
+翻译自官方Frontiers规则书: [Start Realms: Frontiers官方英文规则PDF](https://files.whitewizardgames.com/starrealms/StarRealms_Frontiers_RuleBook2.pdf)
 ***
 - [术语翻译参考](#%e6%9c%af%e8%af%ad%e7%bf%bb%e8%af%91%e5%8f%82%e8%80%83)
 - [总览](#%e6%80%bb%e8%a7%88)
@@ -19,6 +20,8 @@
     - [攻击](#%e6%94%bb%e5%87%bb)
   - [弃牌阶段](#%e5%bc%83%e7%89%8c%e9%98%b6%e6%ae%b5)
   - [摸牌阶段](#%e6%91%b8%e7%89%8c%e9%98%b6%e6%ae%b5)
+- [图标参考](#%e5%9b%be%e6%a0%87%e5%8f%82%e8%80%83)
+- [准备上手吧！](#%e5%87%86%e5%a4%87%e4%b8%8a%e6%89%8b%e5%90%a7)
 
 # 术语翻译参考
 |     原文      |   译文   |
@@ -39,6 +42,7 @@
 |   text box    |  文本区  |
 |   triggered   |   激活   |
 |  Trade Pool   |  金钱池  |
+|    Format     |   玩法   |
 
 # 总览  
 
@@ -51,7 +55,7 @@
 # 初始设置
 将**大号卡片**放在一边。它们只会在单人（solo）或者合作挑战任务（cooperative challenge）中被用到（第~~XX~~页）。  
 每个玩家以含有8**侦察者**（Scout）和2**蝰蛇**（Viper）的牌库，以及50点势力作为起始。  
-将16张**探索者**（Explorer）组成的牌叠面朝上放在桌面上，牌面向下洗混**交易牌库**（Trade Deck）（所有带有![星域奇航LOGO](figs/Blob.png "Blob")![星域奇航LOGO](figs/StarEmpire.png "Star Empire")![星域奇航LOGO](figs/TradeFederation.png "Trade Federation")![星域奇航LOGO](figs/MachineClut.png "Machine Clut")派系（faction）标志的标准大小的卡牌）。在交易牌库旁为**销毁堆**（Scrap Heap）（用于存放所有被移出游戏的卡）。将交易牌库最上方的五张牌面朝上置于桌面构成**交易列**（Trade Row）。  
+将16张**探索者**（Explorer）组成的牌叠面朝上放在桌面上，牌面向下洗混**交易牌库**（Trade Deck）（所有带有![Blob](figs/Blob.png "Blob")![Star Empire](figs/StarEmpire.png "Star Empire")![Trade Federation](figs/TradeFederation.png "Trade Federation")![Machine Cult](fig/../figs/MachineClut.png "Machine Cult")派系（faction）标志的标准大小的卡牌）。在交易牌库旁为**销毁堆**（Scrap Heap）（用于存放所有被移出游戏的卡）。将交易牌库最上方的五张牌面朝上置于桌面构成**交易列**（Trade Row）。  
 每个玩家洗混**个人牌库**并且将其面朝下放在自己面前，留下**弃牌堆**的空间。  
 随机选择起始玩家。双人游戏之中该玩家将从**个人牌库**中抓三张牌，第二位玩家将抓五张牌。  
 
@@ -121,3 +125,27 @@
 摸五张牌，然后结束你的回合。  
 _注意：如果你需要摸牌但是你的个人牌库已空，重洗你的弃牌堆并将其面朝下作为你新的个人牌库。_  
 案例：在你的摸牌阶段你手里只剩三张牌，将这三张牌先摸到手中，再重洗你的弃牌堆作为新的个人牌库，最后从新的个人牌库中摸另外两张牌构成五张手牌。  
+
+# 图标参考
+
+![Blob](figs/BlobBig.png "Blob")Blob势力标志  
+![Machine Cult](fig/../figs/MachineClutBig.png "Machine Cult")Machine Cult派系标志  
+![Star Empire](figs/StarEmpireBig.png "Star Empire")Star Empire派系标志  
+![Trade Federation](figs/TradeFederationBig.png "Trade Federation")Trade Federation派系标志  
+卡牌左上角的这些标志表示该卡牌的派系，文本区的这些标志则表明该卡片的同盟能力。  
+势力  
+玩家起始拥有50点势力。如果你的势力降到0或以下，你将输掉游戏。出现在文本区的该标志表明你可以获得的势力。你有可能在游戏过程中通过获得势力使得你的势力超过初始数值。  
+战力  
+出现在文本区的该标志表明你可以获得的战力。  
+金钱  
+出现在卡牌右上角的金钱标志表明购买该卡牌时所需要的花费。出现在文本区的该标志表明你获得的金钱。  
+销毁  
+出现在文本区的该标志表明销毁能力  
+前哨  
+拥有前哨标志的基地被称为前哨基地。如果一个玩家拥有前哨基地在场，在前哨阵地被摧毁之前他/她和他/她的非前哨阵地将不能被攻击。  
+防御力  
+一个基地的防御力表明该基地被摧毁所需要的战力点数（一回合内获取的战力方可，视作基地下回合将会自动整修自愈）。  
+
+#  准备上手吧！
+
+你现在已经做好了双人游戏的一切准备，可以开始游戏了！之后的内容将介绍其他一些有趣的的玩法。
